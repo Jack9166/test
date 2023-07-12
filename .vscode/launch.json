@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ServingWebContentApplication<serving-web-content>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.servingwebcontent.ServingWebContentApplication",
+            "projectName": "serving-web-content",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
